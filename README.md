@@ -44,16 +44,16 @@ python cafemanagement.py
 4. Follow the on-screen instructions to place your order
 
 ⚠️ Note:
--The program currently supports ordering up to two items
--Input validation can be improved in future versions
--Designed for learning and practice purposes
+- The program currently supports ordering up to two items
+- Input validation can be improved in future versions
+- Designed for learning and practice purposes
 
 🔧 Future Improvements:
--Allow ordering more than two items
--Use loops and dictionaries for cleaner code
--Improve input validation
--Add GST/tax calculation
--Convert to GUI or web-based application
+- Allow ordering more than two items
+- Use loops and dictionaries for cleaner code
+- Improve input validation
+- Add GST/tax calculation
+- Convert to GUI or web-based application
 
 👤 Author
 **Buddineni Rakshith** **-** **LinkedIn**: [https://www.linkedin.com/in/buddineni-rakshith](https://www.linkedin.com/in/buddineni-rakshith)
