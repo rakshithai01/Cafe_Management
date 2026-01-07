@@ -39,7 +39,7 @@ This project is beginner-friendly and demonstrates basic Python concepts such as
 3. Run the program using:
 
 ```bash
-python restaurant_order.py
+python cafemanagement.py
 ```
 4. Follow the on-screen instructions to place your order
 
